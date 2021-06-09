@@ -8,4 +8,13 @@ p{
     font-size: 1.2em;
     color: #3d3d3d;
     font-family: Arial, Helvetica, sans-serif;
+footer{
+    background-color: #3d3d3d;
+    padding: 15px;
+}
+footer p {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eeeded;
+    text-align: center;
 }
